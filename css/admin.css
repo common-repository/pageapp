@@ -1,0 +1,3 @@
+#pageapp_postmeta tbody tr:nth-child(odd) {
+	background-color: #fafafa;
+}
